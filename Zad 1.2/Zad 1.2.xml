@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Josip</ime>
+    <prezime>Plesa</prezime>
+    <JMBG>3456029768</JMBG>
+    <Datum_rod>24.6.2007.</Datum_rod>
+    <God_studij>3</God_studij>
+    
+
+    <kontakt>
+        <E-mail>imejl@gmail.com</E-mail>
+        <telefon>094 568 799</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <prvi_kolegij>
+            <naziv>Napredno programiranje</naziv>
+            <Ime_prof>Zeljko Kovacevic</Ime_prof>
+            <broj_ECTS>5</broj_ECTS>
+        </prvi_kolegij>
+        
+        <drugi_kolegij>
+            <naziv>Operacijski sustavi</naziv>
+            <Ime_prof>Miroslav Miroslavic</Ime_prof>
+            <broj_ECTS>5</broj_ECTS>
+        </drugi_kolegij>
+
+        <treci_kolegij>
+            <naziv>Matematicka analiza</naziv>
+            <Ime_prof>Kresimir Kresic</Ime_prof>
+            <broj_ECTS>4</broj_ECTS>
+        </treci_kolegij>
+
+     </kolegij>
+
+</student>

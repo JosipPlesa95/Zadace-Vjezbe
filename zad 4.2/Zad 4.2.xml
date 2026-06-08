@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<narudzba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Vjezba4.2.xsd">
+
+ <statusNarudzbe>obradjena</statusNarudzbe>
+
+<kolicina>25</kolicina>
+
+ <cijena valuta="EUR">149.99</cijena>
+
+</narudzba>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+  <Ime>Kristijan</Ime>
+  <Prezime>Pepelko</Prezime>
+  <MjestoStanovanja>
+     <Adresa>Trg Mazuranica 5</Adresa>
+     <Grad>Zagreb</Grad>
+     <Drzava>Hrvatska</Drzava>
+  </MjestoStanovanja>
+  <Kontakt>
+     <Mobitel>96 146 200</Mobitel>
+     <KucniTelefon>01 5846 333</KucniTelefon>
+     <Email>Kiki.pepe78@gmail.hr</Email>
+  </Kontakt>
+</Osoba>

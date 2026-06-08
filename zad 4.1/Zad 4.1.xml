@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="shema.xsd">
+
+ <ime>Ivan Horvat</ime>
+
+ <cijena>199.99</cijena>
+
+ <godine>25</godine>
+
+ <aktivan>true</aktivan>
+
+ <datumRodjenja>1999-04-27</datumRodjenja>
+
+ <vrijemePocetka>15:30:00</vrijemePocetka>
+
+</root>

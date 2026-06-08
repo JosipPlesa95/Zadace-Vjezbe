@@ -1,0 +1,50 @@
+{
+  "ime": "Ivan",
+  "prezime": "Horvat",
+  "automobili": [
+    {
+      "marka": "BMW",
+      "model": "Serija 3",
+      "godina_proizvodnje": 2018,
+      "boja": "crna",
+      "registriran": true,
+      "cijena": 22000,
+      "kilometri": 125000,
+      "gorivo": "Dizel",
+      "vlasnik_od": 2021
+    },
+    {
+      "marka": "Volkswagen",
+      "model": "Golf 7",
+      "godina_proizvodnje": 2016,
+      "boja": "srebrna",
+      "registriran": true,
+      "cijena": 14500,
+      "kilometri": 160000,
+      "gorivo": "Dizel",
+      "vlasnik_od": 2019
+    },
+    {
+      "marka": "Audi",
+      "model": "A4",
+      "godina_proizvodnje": 2020,
+      "boja": "bijela",
+      "registriran": false,
+      "cijena": 26000,
+      "kilometri": 85000,
+      "gorivo": "Benzin",
+      "vlasnik_od": 2023
+    },
+    {
+      "marka": "Renault",
+      "model": "Clio",
+      "godina_proizvodnje": 2015,
+      "boja": "crvena",
+      "registriran": true,
+      "cijena": 7500,
+      "kilometri": 110000,
+      "gorivo": "Benzin",
+      "vlasnik_od": 2015
+    }
+  ]
+}

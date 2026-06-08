@@ -1,0 +1,18 @@
+<? xml version="1.0" encoding="UTF-8"?>
+
+<Osoba spol="Musko">
+ <Ime>Ante</Ime>
+ <Prezime>Gotovina</Prezime>
+    
+ <MjestoStanovanja>
+        <Adresa>Mazuranac78</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+</MjestoStanovanja>
+
+<Kontakt>
+  <Mobitel>095 873 9574</Mobitel>
+  <KucniTelefon>34 48967</KucniTelefon>
+  <Email>drzava_95@gmail.com</Email>
+</Kontakt>
+</Osoba>

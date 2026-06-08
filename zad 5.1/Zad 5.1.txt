@@ -1,0 +1,14 @@
+1. Sve elemente koji su neposredna djeca elementa 
+/studenti/*
+
+2. Sve elemente koji su neposredna djeca svakog elementa 
+//student/*
+
+3. Sve elemente  koji imaju bilo koji atribut
+//student[@*]
+
+4. Sve atribute koji se nalaze bilo gdje u XML dokumentu
+//@*
+
+5. Sve čvorove koji se nalaze unutar elementa , bez obzira na njihov naziv
+//student/node()

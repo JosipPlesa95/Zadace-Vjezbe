@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Josip</ime>
+    <prezime>Plesa</prezime>
+    <JMBG>3456029768</JMBG>
+    <Datum_rod>24.6.2007.</Datum_rod>
+    <God_studij>3</God_studij>
+    <prog>Informatika</prog>
+
+    <adresa>
+        <Ulica>Mazuranicev trg 4</Ulica>
+        <Grad>Zagreb</Grad>
+        <Postanski_broj>10090</Postanski_broj>
+    </adresa>
+</student>

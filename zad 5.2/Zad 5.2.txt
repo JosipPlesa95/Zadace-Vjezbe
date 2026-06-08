@@ -1,0 +1,17 @@
+1. Što vraća XPath izraz: //BBB[1]
+Vraća svaki element BBB koji je prvo dijete svog roditelja.
+
+2. Što vraća XPath izraz: /AAA/BBB[1]
+Vraća samo prvi BBB koji je direktno dijete korijenskog elementa AAA.
+
+3. Što vraća XPath izraz: //BBB[last()]
+Vraća svaki element BBB koji je zadnje dijete svog roditelja.
+
+4. Što vraća XPath izraz: /AAA/*[1]
+Vraća bilo koji prvi element koji je direktno dijete elementa AAA.
+
+5. Što vraća XPath izraz: //BBB[@id and @grupa]
+Vraća sve elemente BBB koji imaju definirana oba atributa (id i grupa), bez obzira gdje se nalaze.
+
+6. Što vraća XPath izraz: //BBB[@id and not(@grupa)]
+Vraća sve elemente BBB koji imaju atribut id, ali nemaju atribut grupa.

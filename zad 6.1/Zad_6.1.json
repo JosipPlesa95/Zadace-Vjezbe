@@ -1,0 +1,34 @@
+{
+  "ime": "Ivan",
+  "prezime": "Horvat",
+  "automobili": [
+    {
+      "marka": "BMW",
+      "model": "Serija 3",
+      "godina": 2018,
+      "registracija": "ZG-1234-AA",
+      "cijena": 22000
+    },
+    {
+      "marka": "Volkswagen",
+      "model": "Golf 7",
+      "godina": 2016,
+      "registracija": "ZG-5678-BB",
+      "cijena": 14500
+    },
+    {
+      "marka": "Audi",
+      "model": "A4",
+      "godina": 2020,
+      "registracija": "ST-9876-CC",
+      "cijena": 26000
+    },
+    {
+      "marka": "Renault",
+      "model": "Clio",
+      "godina": 2015,
+      "registracija": "RI-4321-DD",
+      "cijena": 7500
+    }
+  ]
+}

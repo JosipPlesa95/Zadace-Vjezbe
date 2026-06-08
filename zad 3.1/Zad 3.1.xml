@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Narudzba>
+    <Ime>Anto</Ime>
+    <Prezime>Ivic</Prezime>
+    
+    <MjestoStanovanja>
+        <Adresa>Mazuranac3</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    
+    <NaruceniArtikl>
+        <Naziv>Samsung s26</Naziv>
+        <Kolicina>2</Kolicina>
+        <Cijena>1200</Cijena>
+    </NaruceniArtikl>
+</Narudzba>
